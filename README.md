@@ -1,51 +1,46 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/leo-pro/letmeask-web/a3f613820b94b26076596c19dff8f3ffd97ea908/src/assets/images/logo.svg" width="160px">
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
-  
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
-
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
-</p>
-
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
 
 <br>
 
-## 🧪 Tecnologias
+## 🧪 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was built with these technologies:
 
-- [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+<p>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+</p>
 
-## 🚀 Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
+## 🚀  Getting Started
+
+Clone the project repository and open the folder 
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/leo-pro/letmeask-web/
+$ cd letmeask-web
 ```
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
-# Instalar as dependências
-$ yarn
+# install dependencies
+$ yarn 
+#or 
+$ npm install
 
 # Iniciar o projeto
-$ yarn start
+$ yarn start 
+#or 
+$npm run start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+Apps started on your browser at http://localhost:3000.
 
 Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
 
-## 💻 Projeto
+## 💻 About
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
@@ -58,20 +53,12 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details
 
 ---
 
-## Techs
-<p>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</p>
-
 ##
+
 Made With ❤️ & NextJS by [Leonardo Alves](https://github.com/leo-pro)
