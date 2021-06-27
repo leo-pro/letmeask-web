@@ -57,4 +57,4 @@ This project is under the MIT license. See the file [LICENSE](LICENSE.md) for mo
 
 ##
 
-Made With ❤️ & NextJS by [Leonardo Alves](https://github.com/leo-pro)
+Made with ❤️ & NextJS by [Leonardo Alves](https://github.com/leo-pro)
